@@ -1,0 +1,18 @@
+@media screen and (max-width:580px){
+    .backgroundImg{
+        display: none;
+        background-color: green;
+        }
+    }
+    
+    .buttondesign{
+        background-color: green;
+    }
+
+.Footer{
+    position:fixed;
+}
+
+.Center{
+    padding: 100px;
+}

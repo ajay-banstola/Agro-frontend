@@ -1,0 +1,54 @@
+
+.App-header1 {
+    background-color: #84B562;
+    min-height: 50px;
+    
+  }
+  .App-header1 nav{
+    float: right;
+    margin-right: 170px;
+    padding: -2px;
+  }
+
+  .App-header1 ul {
+        list-style: none;
+        margin:0;
+        padding:0;
+        width:100%;
+        text-align: center;
+        font: Segoe UI;
+      
+  }
+  .nav{
+      color:black;
+  }
+
+  .App-header1 li{
+      display: inline-block;
+      margin:20px;
+      font-family: 'Roboto', sans-serif;
+      color: 'white';
+  }
+
+.App-header1 a:hover{
+    color:#4CAF50;
+}   
+
+a:link{
+    text-decoration: none;
+
+}
+a{
+    color: black;
+
+}
+
+/* font awesome */
+.fa, .far, .fas {
+    color:#ADFC37;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}

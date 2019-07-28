@@ -1,0 +1,81 @@
+.App-header {
+    background-color: #5A5956;
+    min-height: 57px;
+    
+  }
+  .App-header nav{
+    float: right;
+    margin-right: 170px;
+    padding: -2px;
+    
+  }
+
+  
+  .App-header ul {
+        list-style: none;
+        margin:0;
+        padding:0;
+        width:100%;
+        text-align: center;
+        font: Segoe UI;
+      
+  }
+
+  .App-header li{
+      display: inline-block;
+      margin:20px;
+	  font-family: 'Roboto', sans-serif;
+  }
+
+.App-header a:hover{
+    color:#4CAF50;
+}   
+
+a:link{
+    text-decoration: none;
+
+}
+a{
+    color: white;
+
+}
+
+/* font awesome */
+.fa, .far, .fas {
+    color:#ADFC37;
+}
+
+/* button */
+
+.button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 7px 17px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button1{
+    background-color: #84B562;
+    border-radius: 5px;
+}
+
+#separator{
+    color: #ADFC37;
+}
+
+.button1:hover{
+    background-color: #4CAF50;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
